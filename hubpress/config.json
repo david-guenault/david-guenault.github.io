@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "david-guenault",
-    "repositoryName": "david-guenault.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"david-guenault","repositoryName":"david-guenault.github.io","branch":"master"},"site":{"title":"BOX4PROD","url":"http://david-guenault.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://david-guenault.github.io/themes/Casper"}}
